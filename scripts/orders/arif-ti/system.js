@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const dd = "2025/06/09";
 
-  // execute("a", dd);
+  execute("a", dd);
   // execute("b");
 
   function execute(type, value = null) {
